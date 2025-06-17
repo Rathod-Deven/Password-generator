@@ -78,6 +78,7 @@ body{
 
     .display input {
         font-size: 5px;
+        padding-left: 2px;
     }
 
     .display {
